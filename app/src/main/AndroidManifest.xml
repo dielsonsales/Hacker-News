@@ -8,7 +8,7 @@
         android:allowBackup="true"
         android:label="Hacker News"
         android:supportsRtl="true"
-        android:theme="@android:style/Theme.Light.NoTitleBar" >
+        android:theme="@style/AppTheme" >
 
         <activity
             android:name=".MainActivity"
